@@ -19,6 +19,7 @@
     "@babel/core": "^7.25.2",
     "@biomejs/biome": "1.9.4",
     "@types/react": "~18.3.12",
+    "lefthook": "^1.11.3",
     "typescript": "^5.3.3"
   },
   "private": true
