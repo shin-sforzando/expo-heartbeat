@@ -6,8 +6,8 @@
     "useIgnoreFile": false
   },
   "files": {
-    "ignoreUnknown": false,
-    "ignore": []
+    "ignoreUnknown": true,
+    "ignore": [".expo", ".github", ".vscode", "node_modules"]
   },
   "formatter": {
     "enabled": true,

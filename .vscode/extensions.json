@@ -1,10 +1,10 @@
 {
-    "recommendations": [
-        "biomejs.biome",
-        "davidanson.vscode-markdownlint",
-        "editorconfig.editorconfig",
-        "expo.vscode-expo-tools",
-        "streetsidesoftware.code-spell-checker",
-        "yzhang.markdown-all-in-one"
-    ]
+  "recommendations": [
+    "biomejs.biome",
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "expo.vscode-expo-tools",
+    "streetsidesoftware.code-spell-checker",
+    "yzhang.markdown-all-in-one"
+  ]
 }
