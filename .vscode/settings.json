@@ -12,5 +12,13 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "cSpell.words": ["biomejs", "Commitizen", "lefthook"]
+  "cSpell.words": [
+    "biomejs",
+    "Commitizen",
+    "detrend",
+    "Detrended",
+    "detrending",
+    "exif",
+    "lefthook"
+  ]
 }
