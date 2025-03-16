@@ -5,5 +5,8 @@
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": "always"
-  }
+  },
+  "cSpell.words": [
+    "Commitizen"
+  ]
 }
