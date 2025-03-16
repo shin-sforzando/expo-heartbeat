@@ -12,6 +12,14 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow this app to use your camera to detect heartbeat"
+        }
+      ]
+    ],
     "ios": {
       "supportsTablet": true
     },
