@@ -2,8 +2,8 @@
   "editor.defaultFormatter": "biomejs.biome",
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": "always",
-    "source.fixAll.biome": "explicit",
-    "source.organizeImports.biome": "explicit"
+    "source.fixAll.biome": "never",
+    "source.organizeImports.biome": "never"
   },
   "[markdown]": {
     "editor.formatOnSave": true,
@@ -12,5 +12,13 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "cSpell.words": ["biomejs", "Commitizen", "lefthook"]
+  "cSpell.words": [
+    "biomejs",
+    "Commitizen",
+    "detrend",
+    "Detrended",
+    "detrending",
+    "exif",
+    "lefthook"
+  ]
 }

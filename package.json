@@ -1,26 +1,26 @@
 {
   "name": "expo-heartbeat",
   "version": "1.0.0",
+  "private": true,
   "main": "index.ts",
   "scripts": {
-    "start": "expo start",
+    "start": "expo start --clear",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~52.0.38",
     "expo-camera": "~16.0.18",
     "expo-status-bar": "~2.0.1",
-    "react": "18.3.1",
-    "react-native": "0.76.7"
+    "expo": "~52.0.42",
+    "react-native": "0.76.9",
+    "react": "18.3.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2",
+    "@babel/core": "^7.26.10",
     "@biomejs/biome": "1.9.4",
     "@types/react": "~18.3.12",
-    "lefthook": "^1.11.3",
-    "typescript": "^5.3.3"
-  },
-  "private": true
+    "lefthook": "^1.11.6",
+    "typescript": "^5.8.3"
+  }
 }
