@@ -2,8 +2,8 @@
   "editor.defaultFormatter": "biomejs.biome",
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": "always",
-    "source.fixAll.biome": "explicit",
-    "source.organizeImports.biome": "explicit"
+    "source.fixAll.biome": "never",
+    "source.organizeImports.biome": "never"
   },
   "[markdown]": {
     "editor.formatOnSave": true,
